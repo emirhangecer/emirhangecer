@@ -1,4 +1,4 @@
-![coding](https://user-images.githubusercontent.com/91011033/232647851-a192f49e-b0d4-4b42-931a-ae3c74c7b2c3.gif)
+
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
 
@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhangecer&show_icons=true&locale=en" alt="emirhangecer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhangecer&" alt="emirhangecer" /></p>
+
+![coding](https://user-images.githubusercontent.com/91011033/232647851-a192f49e-b0d4-4b42-931a-ae3c74c7b2c3.gif)
