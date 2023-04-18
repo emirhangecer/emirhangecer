@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/tr/view/pc-banging-coding-swe19-programming-gif-19008194)]
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
-<img align="right" alt="Coding" widht="100" src="https://tenor.com/tr/view/pc-banging-coding-swe19-programming-gif-19008194">
+<img align="right" alt="Coding" widht="400" src="https://tenor.com/tr/view/pc-banging-coding-swe19-programming-gif-19008194">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangecer&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangecer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emirhan_beg" target="blank"><img src="https://img.shields.io/twitter/follow/emirhan_beg?logo=twitter&style=for-the-badge" alt="emirhan_beg" /></a> </p>
