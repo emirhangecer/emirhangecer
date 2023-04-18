@@ -1,4 +1,4 @@
-![tumblr_owsbgsWF5R1r5u9m2o3_r1_500](https://user-images.githubusercontent.com/91011033/232649622-cbc05c32-dd77-449e-b7a3-34dfe791fc56.gif)
+![tumblr_owsbgsWF5R1r5u9m2o3_r1_500]("https://user-images.githubusercontent.com/91011033/232649622-cbc05c32-dd77-449e-b7a3-34dfe791fc56.gif" widht:"100")
 
 
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
