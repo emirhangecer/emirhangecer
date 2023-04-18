@@ -3,10 +3,10 @@
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangecer&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangecer" /> </p>
-![coding](https://user-images.githubusercontent.com/91011033/232647851-a192f49e-b0d4-4b42-931a-ae3c74c7b2c3.gif)
+
 
 <p align="left"> <a href="https://twitter.com/emirhan_beg" target="blank"><img src="https://img.shields.io/twitter/follow/emirhan_beg?logo=twitter&style=for-the-badge" alt="emirhan_beg" /></a> </p>
-
+![coding](https://user-images.githubusercontent.com/91011033/232647851-a192f49e-b0d4-4b42-931a-ae3c74c7b2c3.gif)
 - 🔭 I’m currently working on **mobile development and UI/UX design**
 
 - 🌱 I’m currently learning **React Native & Rust**
