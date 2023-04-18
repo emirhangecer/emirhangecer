@@ -1,4 +1,5 @@
-![code-coding](https://user-images.githubusercontent.com/91011033/232648818-6714d4e5-d363-41aa-b32e-3a9523c475b6.gif)
+![tumblr_owsbgsWF5R1r5u9m2o3_r1_500](https://user-images.githubusercontent.com/91011033/232649622-cbc05c32-dd77-449e-b7a3-34dfe791fc56.gif)
+
 
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
