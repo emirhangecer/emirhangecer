@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)]
+[![MasterHead]([https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif](https://tenor.com/tr/view/coding-gif-25183725))]
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
 
