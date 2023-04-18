@@ -21,9 +21,10 @@
 - 📫 How to reach me **emirhan.begg@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emirhangecer/](https://www.linkedin.com/in/emirhangecer/)
-![200w](https://user-images.githubusercontent.com/91011033/232649083-23af4cd4-979d-4554-af25-1b61d010029f.gif)
+
 
 <h3 align="left">Connect with me:</h3>
+![200w](https://user-images.githubusercontent.com/91011033/232649083-23af4cd4-979d-4554-af25-1b61d010029f.gif)
 <p align="left">
 <a href="https://twitter.com/emirhan_beg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirhan_beg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emirhangecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhangecer" height="30" width="40" /></a>
