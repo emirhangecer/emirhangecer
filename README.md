@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/91011033/232649622-cbc05c32-dd77-449e-b7a3-34dfe791fc56.gif" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/91011033/232649622-cbc05c32-dd77-449e-b7a3-34dfe791fc56.gif" width="250" height="100"/>
 
 
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
