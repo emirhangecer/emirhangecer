@@ -1,4 +1,4 @@
-![code-coding](https://user-images.githubusercontent.com/91011033/232648818-6714d4e5-d363-41aa-b32e-3a9523c475b6.gif)
+![code-coding, widht=200](https://user-images.githubusercontent.com/91011033/232648818-6714d4e5-d363-41aa-b32e-3a9523c475b6.gif)
 
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
