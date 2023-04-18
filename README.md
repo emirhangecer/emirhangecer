@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif](https://tenor.com/tr/view/coding-gif-25183725))]
+[![MasterHead](<div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)]
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
 
