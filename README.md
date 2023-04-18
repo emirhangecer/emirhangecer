@@ -1,3 +1,4 @@
+[![MasterHead](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
 
