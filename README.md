@@ -1,4 +1,4 @@
-![code-coding, widht=200](https://user-images.githubusercontent.com/91011033/232648818-6714d4e5-d363-41aa-b32e-3a9523c475b6.gif)
+![code-coding](https://user-images.githubusercontent.com/91011033/232648818-6714d4e5-d363-41aa-b32e-3a9523c475b6.gif)
 
 <h1 align="center">Hi 👋, I'm Emirhan Gecer</h1>
 <h3 align="center">IT Systems Engineer Student from Turkey</h3>
@@ -21,6 +21,7 @@
 - 📫 How to reach me **emirhan.begg@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emirhangecer/](https://www.linkedin.com/in/emirhangecer/)
+![200w](https://user-images.githubusercontent.com/91011033/232649083-23af4cd4-979d-4554-af25-1b61d010029f.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
