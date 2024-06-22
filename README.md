@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhangecer&label=Profile%20views&color=0e75b6&style=flat" alt="emirhangecer" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/emirhan_beg" target="blank"><img src="https://img.shields.io/twitter/follow/emirhan_beg?logo=twitter&style=for-the-badge" alt="emirhan_beg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/emirhan_gecerr" target="blank"><img src="https://img.shields.io/twitter/follow/emirhan_gecerr?logo=twitter&style=for-the-badge" alt="emirhan_gecerr" /></a> </p>
 
 - 🔭 I’m currently working on **IOS development and UI/UX design**
 
