@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/emirhan_beg" target="blank"><img src="https://img.shields.io/twitter/follow/emirhan_beg?logo=twitter&style=for-the-badge" alt="emirhan_beg" /></a> </p>
 
-- 🔭 I’m currently working on **mobile development and UI/UX design**
+- 🔭 I’m currently working on **IOS development and UI/UX design**
 
-- 🌱 I’m currently learning **React Native & Rust**
+- 🌱 I’m currently learning **Swift & IOS development**
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/@emirhangecer](https://www.figma.com/@emirhangecer)
 
 - 📝 I regularly write articles on [https://medium.com/@emirhangecer](https://medium.com/@emirhangecer)
 
-- 💬 Ask me about **UI/UX design**
+- 💬 Ask me about **IOS Development & UI/UX design**
 
 - 📫 How to reach me **emirhan.begg@gmail.com**
 
