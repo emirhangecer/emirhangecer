@@ -44,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhangecer&show_icons=true&locale=en&layout=compact" alt="emirhangecer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirhangecer&show_icons=true&locale=en" alt="emirhangecer" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhangecer&" alt="emirhangecer" /></p>
